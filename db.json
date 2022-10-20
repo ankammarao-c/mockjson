@@ -1,0 +1,19 @@
+{
+"feeitems":[
+
+{ "feetype":"01",
+"feename":"maintanance",
+"amount":"10000",
+"status":"pending"},
+
+{ "feetype":"02",
+"feename":"bankcharges",
+"amount":"20000",
+"status":"progress"},
+
+{ "feetype":"03",
+"feename":"customercharges",
+"amount":"30000",
+"status":"completed"},
+]
+}
